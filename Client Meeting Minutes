@@ -1,0 +1,56 @@
+Client Meeting Minutes
+
+Project Name       : Airline Pilot
+Project Team       : P3-5
+Meeting Objectives : Clarify project requirements
+Venue              : Singapore Institute of Technology @ NYP-SR4A
+Date               : 15 September 2022
+Time               : 09:47 AM to 09:57 AM
+Participants       : Client, Khansa Zilfa Shofia Ghazali, Alicia Lee En Qing, Ong Yong Qi, Ho Jun Hsian
+
+
+1 COMMENCEMENT OF MEETING
+1.1
+Client allowed participants to record the meeting regarding clarification of project requirements.
+
+
+2 REQUIREMENTS CLARIFICATION
+2.1
+Client stated that a means for the staff to check their monthly schedule should be provided and to consider what the workload is if the staff put in their constraints along with how to check if it can be adjusted.
+
+2.2
+Client stated that the manager needs to take a look at the job rejection request before approving it.
+Upon approval, the pilot’s following workload will be affected as the pilot’s next job should start from the pilot’s location at that point in time.
+
+2.3
+Client mentioned that there is no minimum number of hours that a pilot needs to fly.
+Ideally, a pilot’s number of work hours is forty a week and beyond that it is considered as overtime.
+
+2.4
+Client explained that pilots indicating their preferences refers to indicating the routes and days they want to fly.
+However, what should and should not be entertained, such as preferences that are of low priority or factors that will strongly affect the ease of scheduling, need to be considered and can be done so on a case-by-case basis.
+There are many variables such as location and time of the day that will increase the complexity, hence developers need to define the technical constraints of the algorithm.
+
+2.5
+Client shared that pilots require a minimum of two hours of ground break for every four hours of flight.
+For example, one hour of flight requires two hours of ground break, while four hours and ten minutes of flight requires four hours of ground break.
+Client explained that flight time refers to the time that a pilot is in air and does not include pre-flight activities.
+
+2.6
+Client stated that the job allocations made one week in advance is a one-off exercise, but there must be a means to edit and make minor adjustments. 
+
+2.7
+Client mentioned that if the schedule is changed, the staff should be notified. Developers can decide whether it is via email or through other means.
+
+2.8
+Client explained that availability refers to the days that the staff are able to fly.
+Taking leave is considered as indicating that they are not available on that day, but they can stretch the availability to have more back-to-back days so that the manager can assign long flights for them.
+
+
+3. ANY OTHER MATTERS
+3.1
+Client allows only one email for clarification and it should not be a long email.
+
+
+Minutes recorded by: Alicia Lee En Qing
+Vetted by: Yong Qi, Shofia, Ho Jun Hsian
